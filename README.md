@@ -1,3 +1,6 @@
+### Imperial College London
+- COMP40018 Calculus ([PDF](Imperial/Calculus.pdf))
+
 ### National University of Singapore
 #### Computer Science
 - CS2040S Data Structures and Algorithms ([Markdown](NUS/CS2040S/data-structures-algorithms.md)) ([Midterm Cheatsheet](NUS/CS2040S/cs2040s-midterm.pdf)) ([Final Cheatsheet](NUS/CS2040S/cs2040s-final.pdf))
