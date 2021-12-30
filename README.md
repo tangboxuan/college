@@ -1,6 +1,7 @@
 ### Imperial College London
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
-- COMP40018 Calculus ([PDF](Imperial/Calculus.pdf))
+- COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
+- COMP40018.2 Logic ([PDF](Imperial/Logic.pdf))
 
 ### National University of Singapore
 #### Computer Science
