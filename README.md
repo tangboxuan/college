@@ -2,6 +2,7 @@
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
 - COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
 - COMP40018.2 Logic ([PDF](Imperial/Logic.pdf))
+- COMP40018.3 Reasoning ([PDF](Imperial/Reasoning.pdf))
 
 ### National University of Singapore
 #### Computer Science
