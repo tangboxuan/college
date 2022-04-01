@@ -1,6 +1,7 @@
 ### Imperial College London
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
 - COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
+- COMP40017 Linear Algebra ([PDF](Imperial/LinAlg.pdf))
 - COMP40018.2 Logic ([PDF](Imperial/Logic.pdf))
 - COMP40018.3 Reasoning ([PDF](Imperial/Reasoning.pdf))
 
