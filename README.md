@@ -1,4 +1,5 @@
 ### Imperial College London
+- COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/COMP40005/architecture.md)) ([PDF](Imperial/COMP40005/architecture.pdf))
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
 - COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
 - COMP40017 Linear Algebra ([PDF](Imperial/LinAlg.pdf))
