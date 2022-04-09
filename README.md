@@ -1,6 +1,7 @@
 ### Imperial College London
 - COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/COMP40005/architecture.md)) ([PDF](Imperial/COMP40005/architecture.pdf))
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
+- COMP40008 Graphs & Algorithms ([PDF](Imperial/GraphsAlgo.pdf))
 - COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
 - COMP40017 Linear Algebra ([PDF](Imperial/LinAlg.pdf))
 - COMP40018.2 Logic ([PDF](Imperial/Logic.pdf))
