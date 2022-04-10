@@ -31,14 +31,13 @@
 
 <div style="page-break-after: always;"></div>
 
-## Arithmetic Operations
-<img src="images/move.png" width="50%"><img src="images/special.png" width="50%">
+## Arithmetic Operations and Condition Codes
 
-## Condition Codes
+<img src="images/move.png" width="50%"><img src="images/arithmetic.png" width="50%">
+<img src="images/special.png" width="50%"><img src="images/implicit.png" width="50%">
 
-<img src="images/implicit.png" width="50%"><img src="images/compare.png" width="50%">
-<img src="images/test.png" width="50%"><img src="images/setcc.png" width="50%">
-<img src="images/jumpcc.png" width="50%">
+<img src="images/compare.png" width="50%"><img src="images/test.png" width="50%">
+<img src="images/jumpcc.png" width="50%"><img src="images/setcc.png" width="50%">
 
 <div style="page-break-after: always;"></div>
 
