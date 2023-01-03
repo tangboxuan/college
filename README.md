@@ -1,4 +1,5 @@
 ### Imperial College London
+- COMP50002 Software Engineering Design ([PDF](Imperial/SWE.pdf))
 - COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/COMP40005/architecture.md)) ([PDF](Imperial/COMP40005/architecture.pdf))
 - COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
 - COMP40008 Graphs & Algorithms ([PDF](Imperial/GraphsAlgo.pdf))
