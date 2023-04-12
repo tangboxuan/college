@@ -3,6 +3,7 @@
 - COMP50002 Software Engineering Design ([PDF](Imperial/SWE.pdf))
 - COMP50003 Models of Computation ([PDF](Imperial/Computation.pdf))
 - COMP50006 Compilers ([PDF](Imperial/Compilers.pdf))
+- COMP50011 Computational Techniques ([PDF](Imperial/CompTech.pdf))
 
 #### First Year
 - COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/COMP40005/architecture.md)) ([PDF](Imperial/COMP40005/architecture.pdf))
