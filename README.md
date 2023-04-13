@@ -1,5 +1,6 @@
 ### Imperial College London
 #### Second Year
+- COMP50001 Algorithm Design and Analysis ([PDF](Imperial/Algorithms.pdf))
 - COMP50002 Software Engineering Design ([PDF](Imperial/SWE.pdf))
 - COMP50003 Models of Computation ([PDF](Imperial/Computation.pdf))
 - COMP50006 Compilers ([PDF](Imperial/Compilers.pdf))
