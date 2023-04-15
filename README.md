@@ -1,20 +1,20 @@
 ### Imperial College London
 #### Second Year
-- COMP50001 Algorithm Design and Analysis ([PDF](Imperial/Algorithms.pdf))
-- COMP50002 Software Engineering Design ([PDF](Imperial/SWE.pdf))
-- COMP50003 Models of Computation ([PDF](Imperial/Computation.pdf))
-- COMP50006 Compilers ([PDF](Imperial/Compilers.pdf))
-- COMP50008 Probability and Statistics ([PDF](Imperial/ProbStats.pdf))
-- COMP50011 Computational Techniques ([PDF](Imperial/CompTech.pdf))
+- COMP50001 Algorithm Design and Analysis ([PDF](Imperial/Y2/Algorithms.pdf))
+- COMP50002 Software Engineering Design ([PDF](Imperial/Y2/SWE.pdf))
+- COMP50003 Models of Computation ([PDF](Imperial/Y2/Computation.pdf))
+- COMP50006 Compilers ([PDF](Imperial/Y2/Compilers.pdf))
+- COMP50008 Probability and Statistics ([PDF](Imperial/Y2/ProbStats.pdf))
+- COMP50011 Computational Techniques ([PDF](Imperial/Y2/CompTech.pdf))
 
 #### First Year
-- COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/COMP40005/architecture.md)) ([PDF](Imperial/COMP40005/architecture.pdf))
-- COMP40007 Intro to Databases ([PDF](Imperial/Databases.pdf))
-- COMP40008 Graphs & Algorithms ([PDF](Imperial/GraphsAlgo.pdf))
-- COMP40016 Calculus ([PDF](Imperial/Calculus.pdf))
-- COMP40017 Linear Algebra ([PDF](Imperial/LinAlg.pdf))
-- COMP40018.2 Logic ([PDF](Imperial/Logic.pdf))
-- COMP40018.3 Reasoning ([PDF](Imperial/Reasoning.pdf))
+- COMP40005 Introduction to Computer Architecture ([Markdown](Imperial/Y1/Architecture/architecture.md)) ([PDF](Imperial/Y1/Architecture/architecture.pdf))
+- COMP40007 Intro to Databases ([PDF](Imperial/Y1/Databases.pdf))
+- COMP40008 Graphs & Algorithms ([PDF](Imperial/Y1/GraphsAlgo.pdf))
+- COMP40016 Calculus ([PDF](Imperial/Y1/Calculus.pdf))
+- COMP40017 Linear Algebra ([PDF](Imperial/Y1/LinAlg.pdf))
+- COMP40018.2 Logic ([PDF](Imperial/Y1/Logic.pdf))
+- COMP40018.3 Reasoning ([PDF](Imperial/Y1/Reasoning.pdf))
 
 ### National University of Singapore
 #### Computer Science
