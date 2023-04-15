@@ -4,6 +4,7 @@
 - COMP50002 Software Engineering Design ([PDF](Imperial/SWE.pdf))
 - COMP50003 Models of Computation ([PDF](Imperial/Computation.pdf))
 - COMP50006 Compilers ([PDF](Imperial/Compilers.pdf))
+- COMP50008 Probability and Statistics ([PDF](Imperial/ProbStats.pdf))
 - COMP50011 Computational Techniques ([PDF](Imperial/CompTech.pdf))
 
 #### First Year
