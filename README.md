@@ -3,6 +3,7 @@
 - COMP50001 Algorithm Design and Analysis ([Cheatsheet](Imperial/Y2/Algorithms.pdf))
 - COMP50002 Software Engineering Design ([Cheatsheet](Imperial/Y2/SWE.pdf))
 - COMP50003 Models of Computation ([Cheatsheet](Imperial/Y2/CompTech.pdf))
+- COMP50004 Operating Systems ([Cheatsheet](Imperial/Y2/OS.pdf))
 - COMP50005 Networks and Communications ([Cheatsheet](Imperial/Y2/Networks.pdf))
 - COMP50006 Compilers ([Cheatsheet](Imperial/Y2/Compilers.pdf))
 - COMP50008 Probability and Statistics ([Cheatsheet](Imperial/Y2/ProbStats.pdf))
