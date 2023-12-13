@@ -1,4 +1,9 @@
 ### Imperial College London
+
+#### Third Year
+- COMP60007 The Theory and Practice of Concurrent Programming ([Cheatsheet](Imperial/Y3/Concurrency.pdf))
+- COMP60012 Introduction to Machine Learning ([Cheatsheet](Imperial/Y3/ML.pdf))
+
 #### Second Year
 - COMP50001 Algorithm Design and Analysis ([Cheatsheet](Imperial/Y2/Algorithms.pdf))
 - COMP50002 Software Engineering Design ([Cheatsheet](Imperial/Y2/SWE.pdf))
