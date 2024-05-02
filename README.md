@@ -6,6 +6,7 @@
 - COMP60012 Introduction to Machine Learning ([Cheatsheet](Imperial/Y3/ML.pdf))
 - COMP60029 Data Processing Systems ([Cheatsheet](Imperial/Y3/DPS.pdf))
 - COMP60032 Networked Systems ([Cheatsheet](Imperial/Y3/Networked.pdf))
+- BUSI60040 Corporate Finance Online ([Formula](Imperial/Y3/Corporate_Finance.pdf))
 
 #### Second Year
 - COMP50001 Algorithm Design and Analysis ([Cheatsheet](Imperial/Y2/Algorithms.pdf))
