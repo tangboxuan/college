@@ -1,3 +1,7 @@
+### Stanford University
+
+- EE282 Computer Systems Architecture - Spring 2026 ([Cheatsheet](Stanford/EE282.pdf))
+
 ### Imperial College London
 
 #### Third Year
