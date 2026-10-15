@@ -41,3 +41,6 @@
 - UWC2101H Writing & Critical Thinking: Power, Space & Pleasure ([Essay 1: Statistics](NUS/UWC2101H/statistics-power.md)) ([Essay 2: Deepfake](NUS/UWC2101H/deepfake-power.md))
 #### Business Administration
 - BSP1702 Legal Environment of Business ([PDF](NUS/BSP1702/business-law.pdf)) ([Cases](NUS/BSP1702/cases.md))
+
+### University of Illinois Urbana-Champaign
+- MATH453 Number Theory ([PDF](Number_Theory.pdf))
